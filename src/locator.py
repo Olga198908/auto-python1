@@ -1,0 +1,10 @@
+URL_CAT_BUTTON = "https://testpages.eviltester.com/styled/index.html"
+
+LOCATOR_BASIC = "#basicpagetest"
+LOCATOR_FIND = "#findbytest"
+LOCATOR_BUTTON = "W"
+LOCATOR_BUTTON_JUMP1 = "#a27"
+LOCATOR_DYNAMIC = "#dynamictablestest"
+LOCATOR_BUTTON_TABLE = "body > div > div.centered > details > summary"
+LOCATOR_REFRESH = "#refreshtable"
+LOCATOR_ID = "#tableid"
