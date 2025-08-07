@@ -13,4 +13,4 @@ def browser():
 def page(browser):
     page = browser.new_page()  # создаем новую вкладку в браузере
     yield page  # передаем эту страницу тесту
-    page.close()  # после теста нажимаем вкладку
+    page.close()  # после теста закрываем вкладку
